@@ -1,0 +1,57 @@
+{
+  "bot-account": {
+    "username": "Adit_BOt",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "Aminake3.aternos.me",
+    "port": 22719,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": -215.44,
+    "y": 97.0,
+    "z": -1102.28
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Mahinul Is Best; Mahinul is my Creator",
+        "Made By Mahinul",
+        "Kire Tor Ma Kemon Ase?",
+        "Adit r bichi 2da kailla",
+        "Ino Vai r pola 3da",
+        "Alif r Voda Kailla",
+        "ino vai r bou Rose + Emily",
+        "Adit Khanki Magi",
+        "Adit Shob Game e Noob Including: Valorant, Minecraft, Brawlhalla, CODMetc....",
+        "Reyna Alif R Bou",
+        "Sage Adit r Step Mom",
+        "Adit r Shafollo Biya korse Baccha Comming Soon"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
